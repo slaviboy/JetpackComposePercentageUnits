@@ -13,5 +13,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.slaviboy:JetpackComposePercentageUnits:c9ddb1db40'
+	        implementation 'com.github.slaviboy:JetpackComposePercentageUnits:1.0.0'
 	}
